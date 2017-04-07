@@ -20,5 +20,5 @@ Tmux scripts allow to create a tmux session, with pre-registered panes. Those sc
 
 To add this directory to your path, add the following lines into your `.bashrc`:
 
-    PATH=$PATH:/data/myscripts
+    PATH=$PATH:/bin
     export PATH
